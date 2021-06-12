@@ -1,0 +1,10 @@
+{
+	"name":"yeelight",
+	"description":"toggle yeelight",
+	"shell-version":[
+		"3.36"
+	],
+	"url":"",
+	"uuid":"yeelight@thatguy.gr",
+	"version":1.0
+}
